@@ -6,7 +6,7 @@
   "keywords": ["node", "strapi", "API"],
   "addons": [
     {
-      "plan": "mongolab:sandbox",
+      "plan": "heroku-postgresql:hobby-dev",
       "as": "DATABASE"
     }
   ]
